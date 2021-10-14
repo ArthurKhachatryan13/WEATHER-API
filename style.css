@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    height: 500px;
+    width: 100%;
+}
+.city {
+    color:black;
+    text-align: center;
+}
+.btn {
+    width: 200px;
+    height: 40px;
+}
